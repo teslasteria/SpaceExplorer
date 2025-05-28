@@ -2,6 +2,7 @@
     <!-- intro -->
     <section class="intro">
         <h1 class="main-title" id="header1">Explore Space</h1>
+        <h3 class="main-subtitle">thank you for your passion to explore</h3>
       </section>
   
       <!-- nav  -->

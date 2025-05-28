@@ -6,11 +6,15 @@
     font-size: 115px;
     padding: 10px;
     color: white;
-    /* background-color: #20211b; */
-    /* background-image: url(../img/header02.jpg); */
     background-size: cover;
     background-position: center;
     height: 100vh;
     margin: 0;
-    text-shadow: #20211b 5px 5px;
+  }
+
+  .main-subtitle {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
   }
